@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://reapimus.github.io/grims-cutscene-engine/</loc>
+     <lastmod>2021-09-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://reapimus.github.io/grims-cutscene-engine/guide/installation/</loc>
+     <lastmod>2021-09-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://reapimus.github.io/grims-cutscene-engine/guide/interface/</loc>
+     <lastmod>2021-09-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://reapimus.github.io/grims-cutscene-engine/guide/subtitles/</loc>
+     <lastmod>2021-09-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://reapimus.github.io/grims-cutscene-engine/guide/actions/</loc>
+     <lastmod>2021-09-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://reapimus.github.io/grims-cutscene-engine/api-reference/</loc>
+     <lastmod>2021-09-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
