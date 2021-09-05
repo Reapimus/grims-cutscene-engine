@@ -1,0 +1,14 @@
+{
+  "name": "grims-cutscene-engine",
+  "tree": {
+    "$className": "DataModel",
+
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "GrimsCutsceneEngine": {
+        "$className": "Folder",
+        "$path": "src"
+      }
+    }
+  }
+}

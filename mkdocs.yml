@@ -1,0 +1,28 @@
+site_name: Data-Alchemy Documentation
+site_url: https://reapimus.github.io/data-alchemy/
+repo_name: Reapimus/data-alchemy
+repo_url: https://github.com/Reapimus/data-alchemy
+
+theme:
+  name: material
+  palette:
+    scheme: slate
+    primary: red
+    accent: red
+
+nav:
+  - Home: index.md
+  - Guide:
+    - Installation: guide/installation.md
+    - Interface: guide/interface.md
+    - Subtitles: guide/subtitles.md
+    - Actions: guide/actions.md
+  - API Reference: api-reference.md
+
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - toc:
+      permalink: true
+  - pymdownx.superfences
