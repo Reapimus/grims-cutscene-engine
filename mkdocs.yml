@@ -1,7 +1,7 @@
-site_name: Data-Alchemy Documentation
-site_url: https://reapimus.github.io/data-alchemy/
-repo_name: Reapimus/data-alchemy
-repo_url: https://github.com/Reapimus/data-alchemy
+site_name: Grim's Cutscene Engine Documentation
+site_url: https://reapimus.github.io/grims-cutscene-engine/
+repo_name: Reapimus/grims-cutscene-engine
+repo_url: https://github.com/Reapimus/grims-cutscene-engine
 
 theme:
   name: material
